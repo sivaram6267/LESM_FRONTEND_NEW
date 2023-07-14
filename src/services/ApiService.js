@@ -8,12 +8,12 @@ import axios from "axios";
 
 // const BASE_URL = "http://10.81.4.23:9090/LESM-Status-Monitor123";
 
-// const BASE_URL = "http://18.212.4.30:8080/LESM-Status-Monitor-0.0.1-SNAPSHOT"; // NEW ONE DEVOPS API
+ const BASE_URL = "http://3.138.250.11:8080/LESM-Status-Monitor-0.0.1-SNAPSHOT"; // NEW ONE DEVOPS API
 // const BASE_URL = "http://localhost:2020";
 // const BASE_URL = "http://10.81.4.191:2030"; // sudheer pc
 //  const BASE_URL = "http://10.81.4.23:2030"; // server pc
 //const BASE_URL = "http://localhost:2032"
-const BASE_URL = "http://10.81.4.195:2020";
+//const BASE_URL = "http://10.81.4.195:2020";
 
 //sowmya pc
 // const BASE_URL = "http://10.81.4.197:2021"; // chamu pc
